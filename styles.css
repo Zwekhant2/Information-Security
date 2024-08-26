@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+}
+
+article{
+    width: 740px;
+    margin: 16px auto;
+}
+
+/* if the browser window is smaller than 600px */
+@media (max-width: 600px){
+    body {
+        background-color: brown;
+    }
+article{
+    width: 90%;
+}
+
+}
