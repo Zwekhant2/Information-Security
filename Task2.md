@@ -16,7 +16,7 @@
   7. **Actions on Objectives**: The attacker completes their goal (e.g., stealing data).  
 - The goal is to stop the attack at any stage using intelligence and defensive strategies.
 
-**Question/Insight:** How can we automate tools to stop attackers at different steps of the Kill Chain?
+**Question:** How can we automate tools to stop attackers at different steps of the Kill Chain?
 
 ### MITRE ATT&CK Matrix for Enterprise
 
@@ -28,7 +28,7 @@
 - **Procedure**: Specific tools or methods attackers use (e.g., using PowerShell scripts).  
 - Helps defenders predict and stop real-world attacks.
 
-**Question/Insight:** Can we use AI to predict what attackers might do next based on this framework?
+**Question:** Can we use AI to predict what attackers might do next based on this framework?
 
 ---
 
